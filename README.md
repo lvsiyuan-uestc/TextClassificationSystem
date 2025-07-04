@@ -11,3 +11,5 @@
 有模型，避免重复训练，提升系统灵活性。
 3. 模块结构清晰具备可拓展性：项目采用模块化设计，数据处理、模型构建
 与界面逻辑分离，便于后续引入其他算法或优化系统功能。
+训练数据存放在：
+https://drive.google.com/drive/folders/1ggbG2p9HFASy2Al8MfvYIKpsPPqc3vGj?usp=drive_link
